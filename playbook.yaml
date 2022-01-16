@@ -1,0 +1,3 @@
+- import_playbook: yamlFiles/zedOSPF.yaml
+- import_playbook: yamlFiles/zedACL.yaml
+- import_playbook: yamlFiles/zedbackups.yaml
